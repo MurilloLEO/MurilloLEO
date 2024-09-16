@@ -52,16 +52,16 @@ If you think I can contribute to your project, please feel free to contact me:</
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[<img align="left" alt="Leo.Murillo" height="25px" src="https://img.shields.io/badge/gmail-4285F4?style=for-the-badge&logo=gmail&logoColor=red" />](leobachy22@gmail.com)
+<a href = "leobachy22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 [<img align="left" alt="Leonardo-Murillo | LinkedIn" height="25px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/Leonardo-Murillo-backend)
 
 <br></br>
 
-[![](https://github-readme-stats.vercel.app/api?username=MurilloLEO&show_icons=true)](#)
-
-
-
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLEO&layout=compact)](#)
+<div align="center">    
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=MurilloLEO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&nocache=3"/>
+  <br></br>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurilloLEO&layout=compact&langs_count=7&theme=dark&nocache=3"/>
+</div>
 
 <p align="center"> 
   Visitor count<br>
